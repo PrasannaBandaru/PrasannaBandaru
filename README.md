@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**PrasannaBandaru/PrasannaBandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prasanna, an MCA student from Andhra Pradesh, India.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and building simple real-world applications.  
+I’m interested in software development, AI-based applications, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m working on improving my skills in Python, JavaScript, SQL, and API integration while exploring web development and AI tools.
+
+### Tech & Tools
+- Python (Basics)
+- JavaScript
+- SQL
+- HTML, CSS
+- VS Code
+- GitHub
+- ChatGPT & AI Tools
+
+### Projects
+- AI Chatbot for Query Resolution
+- Weather Application
+- Face Recognition Attendance System
+
+### Fun Facts
+- I like learning new tech tools
+- Interested in AI and application development
+- Enjoy solving coding problems
+- Love exploring creative ideas and projects
+
+### Reach Me
+📧 prasannabandaru566@gmail.com  
+🔗 LinkedIn: linkedin.com/in/prasanna-bandaru
